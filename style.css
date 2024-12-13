@@ -4,7 +4,7 @@ body {
     margin: 0 auto; 
     overflow: hidden; 
 } .controller.xbox{
-    background: url(https://i.imgur.com/fJIyBwn.png);
+    background: url(/img/DualSense.svg);
     width: 807px;
     height: 651px;
     margin-left: 0;
