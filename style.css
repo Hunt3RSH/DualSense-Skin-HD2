@@ -11,7 +11,7 @@ body {
     margin-top: 0;
 }
 .xbox.disconnected {
-    background: url(xbox-assets/disconnected.svg);
+    background: url(https://github.com/Hunt3RSH/DualSense-Skin-HD2/blob/main/img/disconnected.png?raw=true);
 }
  .xbox .sticks {
 	width: 367px;
