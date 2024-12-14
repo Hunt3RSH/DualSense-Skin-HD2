@@ -9,7 +9,11 @@ body {
     height: 651px;
     margin-left: 0;
     margin-top: 0;
-} .xbox .sticks {
+}
+.xbox.disconnected {
+    background: url(xbox-assets/disconnected.svg);
+}
+ .xbox .sticks {
 	width: 367px;
     height: 100px;
     left: 220px;
