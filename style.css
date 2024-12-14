@@ -15,7 +15,7 @@ body {
     left: 220px;
     top: 333px;
 }.xbox .stick {
-    background: url(https://i.imgur.com/nXaGdI2.png);
+    background: url(https://github.com/Hunt3RSH/DualSense-Skin-HD2/blob/main/img/stick.png?raw=true);
     width: 100px;
     height: 100px;
 } .xbox .stick.pressed {
@@ -29,7 +29,7 @@ body {
     left: 573px;
     top: 178px;
 } .xbox .button {
-    background: url(https://i.imgur.com/DVqDSsJ.png);
+    background: url(https://github.com/Hunt3RSH/DualSense-Skin-HD2/blob/main/img/button.png?raw=true);
     width: 58px;
     height: 58px;
 } .xbox .button.pressed {
@@ -59,7 +59,7 @@ body {
 } .xbox .quadrant { 
     display: none; 
 } .xbox .back, .xbox .start {
-    background: url(https://i.imgur.com/YJRVQxC.png);
+    background: url(https://github.com/Hunt3RSH/DualSense-Skin-HD2/blob/main/img/start.png?raw=true);
     width: 27px;
     height: 57px;
     opacity: 0;
@@ -72,7 +72,7 @@ body {
     left: 71px;
     top: 196px;
 } .xbox .face {
-    background: url(https://i.imgur.com/hCmzXWK.png);
+    background: url(https://github.com/Hunt3RSH/DualSense-Skin-HD2/blob/main/img/face.png?raw=true);
     position: absolute;
     opacity: 0;
 } .xbox .face.up {
@@ -104,7 +104,7 @@ body {
     left: 93px;
     top: 114px;
 } .xbox .bumper {
-    background: url(https://i.imgur.com/2YssqRT.png);
+    background: url(https://github.com/Hunt3RSH/DualSense-Skin-HD2/blob/main/img/bumper.png?raw=true);
     width: 110px;
     height: 35px;
     opacity: 0;
@@ -113,7 +113,7 @@ body {
     height: 108px;
     left: 94px;
 } .xbox .trigger {
-    background: url(https://i.imgur.com/LsxmGBD.png);
+    background: url(https://github.com/Hunt3RSH/DualSense-Skin-HD2/blob/main/img/trigger.png?raw=true);
     width: 111px;
     height: 108px;
     opacity: 0;
