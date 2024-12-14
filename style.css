@@ -4,7 +4,7 @@ body {
     margin: 0 auto; 
     overflow: hidden; 
 } .controller.xbox{
-    background: url(/img/DualSense.png);
+    background: url(https://github.com/Hunt3RSH/DualSense-Skin-HD2/blob/main/img/DualSense.png?raw=true);
     width: 807px;
     height: 651px;
     margin-left: 0;
@@ -15,7 +15,7 @@ body {
     left: 220px;
     top: 333px;
 }.xbox .stick {
-    background: url(https://i.imgur.com/DVqDSsJ.png);
+    background: url(https://i.imgur.com/nXaGdI2.png);
     width: 100px;
     height: 100px;
 } .xbox .stick.pressed {
